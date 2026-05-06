@@ -1,8 +1,11 @@
 # Changelog
 
-## 6.11.0 (unreleased)
+## 6.10.2 (unreleased)
 
 - ...
+
+## 6.10.1 (2026-05-06)
+- feat: restore issue voting
 
 ## 6.10.0 (2026-04-20)
 - Allow archiving projects.
